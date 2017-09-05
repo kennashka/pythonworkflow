@@ -21,7 +21,7 @@ for word,count in counts.items():
     	bigword = word
         bigcount = count
 
-print "Most used word:;;;;;;;;;;;;11	w      ", bigword
+print "Most used word:", bigword
 print "Times used:", bigcount
 
 
